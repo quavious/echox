@@ -1,10 +1,10 @@
-+++
-title = "Secure Middleware"
-description = "Secure middleware for Echo"
-[menu.main]
-  name = "Secure"
-  parent = "middleware"
-+++
++++  
+title = "Secure Middleware"  
+description = "Secure middleware for Echo"  
+[menu.main]  
+  name = "Secure"  
+  parent = "middleware"  
++++  
 
 Secure middleware provides protection against cross-site scripting (XSS) attack,
 content type sniffing, clickjacking, insecure connection and other code injection
